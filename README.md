@@ -1,2 +1,2 @@
-# civ7-trails
-Happy Trails mod for Civilization VII
+# Happy Trails 1.0.0
+better road networks
