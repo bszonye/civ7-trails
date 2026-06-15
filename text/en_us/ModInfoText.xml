@@ -5,7 +5,7 @@
             <Text>Happy Trails</Text>
         </Row>
         <Row Tag="LOC_MOD_BZ_TRAILS_DESCRIPTION">
-            <Text>better road networks[n] [n][style:fxs-header font-title-lg font-bold uppercase tracking-25]features[/style][n][blist][li] overbuilding adds roads to existing districts[li] ageless buildings and wonders keep their roads upon age transition[/blist]
+            <Text>better road networks[n] [n][style:fxs-header font-title-lg font-bold uppercase tracking-25]features[/style][n][blist][li] overbuilding adds roads to existing districts[li] ageless buildings and wonders keep their roads upon age transition[/blist][n] [n][b]special thanks[/b] to slothoth for inspiration and modding help!
         </Text>
         </Row>
     </EnglishText>
