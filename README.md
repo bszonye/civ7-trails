@@ -1,4 +1,4 @@
-# Happy Trails 1.0.0
+# Happy Trails 1.0.1
 better road networks
 
 - overbuilding adds roads to existing districts
